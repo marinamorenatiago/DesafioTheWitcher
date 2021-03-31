@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(hell.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo {
+    margin-left: 1rem;
+    height: 70px;
+    margin-top: 1rem;
+}
+.title {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1rem;
+}
+.menu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    display: inline;
+    margin-left: 37rem;
+}
+.sub1 {
+    font-weight: bold;
+}
+.sub2 {
+    margin-left: 1rem;
+}
+.geralt {
+    background-image: url(geralt.png);
+    height: 1000px;
+    background-repeat: no-repeat;
+    margin-left: 20rem;
+}
+.witcher {
+    height: 200px;
+    margin-left: 10rem;
+    margin-top: 30rem;
+}
+.botao {
+    margin-top: 1rem;
+    margin-left: 13rem;
+    display: block;
+}
